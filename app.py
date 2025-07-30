@@ -330,5 +330,5 @@ def generate_pdf_report(n_clicks, data, cash_flow_fig_data, co2_fig_data):
 # ==============================================================================
 # RUN APPLICATION
 # ==============================================================================
-if __name__ == '__main__':
-    app.run(debug=True)
+#if __name__ == '__main__':
+#   app.run(debug=True)
